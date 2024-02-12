@@ -1,4 +1,4 @@
 # TDL
 Transport Data Logger
-<img src="https://github.com/auklett/TDL/blob/main/TDL-CAD.png" >
+<img src="https://github.com/auklett/TDL/blob/main/TDL-CAD.png" width=50%>
 
